@@ -1,2 +1,2 @@
-# -heck-heck_NoRis
+# check_check_NoRis
 Check recognition app
