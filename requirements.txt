@@ -1,0 +1,11 @@
+opencv-python
+pytesseract
+tk
+requests
+easyocr
+torch 
+torchvision 
+torchaudio
+matplotlib
+python-telegram-bot
+Telethon
